@@ -1,0 +1,8 @@
+name: wine-quality-env
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - python=3.9
+  - mamba
+prefix: /Users/interestingtj/miniforge3/envs/wine-quality-env
